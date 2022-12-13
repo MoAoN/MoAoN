@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Emmanuel Defalque</h2>
-- 🔭 I’m currently working on a text summarizer : Podsum https://moaon-streamlit-app-vig5mw.streamlit.app/
+- 🔭 I’m currently working on a text summarizer : Podsum => https://moaon-streamlit-app-vig5mw.streamlit.app/
 
 </p>
 
