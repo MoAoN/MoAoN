@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Defalque</h1>
+<h2 align="center">Hi 👋, I'm Emmanuel Defalque</h2>
 - 🔭 I’m currently working on [Podsum](https://moaon-streamlit-app-vig5mw.streamlit.app/)
 
 </p>
